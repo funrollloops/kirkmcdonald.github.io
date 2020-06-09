@@ -11,11 +11,11 @@ import zipfile
 
 # These paths don't appear in the datafiles in the usual fashion.
 unique_paths = {
-    "__base__/graphics/icons/coal.png": "__base__/graphics/icons/icons-new/coal.png",
-    "__base__/graphics/icons/copper-ore.png": "__base__/graphics/icons/icons-new/copper-ore.png",
-    "__base__/graphics/icons/iron-ore.png": "__base__/graphics/icons/icons-new/iron-ore.png",
-    "__base__/graphics/icons/stone.png": "__base__/graphics/icons/icons-new/stone.png",
-    "__base__/graphics/icons/uranium-ore.png": "__base__/graphics/icons/icons-new/uranium-ore.png",
+    "__base__/graphics/icons/coal.png": "__base__/graphics/icons/coal.png",
+    "__base__/graphics/icons/copper-ore.png": "__base__/graphics/icons/copper-ore.png",
+    "__base__/graphics/icons/iron-ore.png": "__base__/graphics/icons/iron-ore.png",
+    "__base__/graphics/icons/stone.png": "__base__/graphics/icons/stone.png",
+    "__base__/graphics/icons/uranium-ore.png": "__base__/graphics/icons/uranium-ore.png",
 }
 
 missing_icon = "__core__/graphics/too-far.png"

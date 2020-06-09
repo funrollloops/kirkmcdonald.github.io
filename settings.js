@@ -27,7 +27,8 @@ var MODIFICATIONS = {
     "0-17-60": new Modification("Vanilla 0.17.60", "vanilla-0.17.60.json", false, [480, 512]),
     "0-17-60x": new Modification("Vanilla 0.17.60 - Expensive", "vanilla-0.17.60-expensive.json", false, [480, 512]),
     "017science": new Modification("0.16.51 w/ 0.17 science mod", "017science-0.16.51.json", true, [480, 512]),
-    "bobs-0-16-51": new Modification("(EXPERIMENTAL) Bob's Mods + base 0.16.51", "bobs-0.16.51.json", true, [800, 832])
+    "bobs-0-16-51": new Modification("(EXPERIMENTAL) Bob's Mods + base 0.16.51", "bobs-0.16.51.json", true, [800, 832]),
+    "krastorio0.9.19": new Modification("Krastorio2 0.9.19", "krastorio2-0.9.19-0.18.28.json", false, [800, 832])
 }
 
 var DEFAULT_MODIFICATION = "0-16-51"
